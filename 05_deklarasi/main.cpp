@@ -1,5 +1,5 @@
 #include <iostream>
-
+// supaya tidak perlu memanggil std:: terus, bisa menggunakan [using namespace std]
 using namespace std;
 
 int main()
