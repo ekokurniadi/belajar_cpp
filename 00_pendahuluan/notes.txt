@@ -1,0 +1,5 @@
+cara menjalankan :
+1. Compile sc menggunakan g++ => g++ <nama file> [g++ test.cpp]
+2. Pada windows akan menghasilkan file a.exe
+3. Cara menjalankan exe nya diterminal  => ./a.exe
+

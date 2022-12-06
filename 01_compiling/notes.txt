@@ -1,0 +1,13 @@
+
+Preprocessing -> Compiling -> Linking
+
+1. Preprocessing
+Proses menggabungkan file cpp dengan header file contoh nya iostream
+g++ -E compile.cpp > compile.p [output berupa compile.p]
+
+2. Compile
+g++ -c compile.cpp [outpur berupa compile.o] => menghasilkan obj file
+
+3. Linking
+Menyambungkan 2 obj file
+g++ compile.o kurang.o -o output
